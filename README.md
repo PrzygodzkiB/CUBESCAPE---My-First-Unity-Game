@@ -8,3 +8,6 @@ D - rotation in the x axis
 ## Screenshot
 
 ![Screenshot](screenshot.JPG)
+
+
+The build file contains a compressed game.
