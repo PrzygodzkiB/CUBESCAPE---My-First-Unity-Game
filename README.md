@@ -7,4 +7,4 @@ A - rotation in the z axis
 D - rotation in the x axis
 ## Screenshot
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.JPG)
